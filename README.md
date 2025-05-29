@@ -1,4 +1,5 @@
 # TryHackMe Writeups: Notes from the Terminal Trenches
+discaredeye.blogspot.com/2025/05/cybersecurity-journey
 
 **Welcome to the archive.**  
 Here you’ll find my annotated walkthroughs, write-ups, and reflections from rooms I've completed on [TryHackMe](https://tryhackme.com/). This repo is a blend of technical breakdowns, threat-hunting rituals, bash sorcery, and post-incident meditations.
